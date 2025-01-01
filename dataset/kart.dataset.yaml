@@ -1,0 +1,4 @@
+train: dataset/images/train
+val: dataset/images/val
+nc: 10  # Number of classes (e.g., 10 kart icons)
+names: ['kart1', 'kart2', 'kart3', 'kart4', 'kart5', 'kart6', 'kart7', 'kart8', 'kart9', 'kart10']
