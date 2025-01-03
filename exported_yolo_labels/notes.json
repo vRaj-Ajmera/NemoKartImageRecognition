@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "6-TEN Trolley"
+    },
+    {
+      "id": 1,
+      "name": "Bat Kart"
+    },
+    {
+      "id": 2,
+      "name": "Blocks"
+    },
+    {
+      "id": 3,
+      "name": "Dalmatian Puppy"
+    },
+    {
+      "id": 4,
+      "name": "Dino Kart"
+    },
+    {
+      "id": 5,
+      "name": "Dino Monstro"
+    },
+    {
+      "id": 6,
+      "name": "Furniture Trolley"
+    },
+    {
+      "id": 7,
+      "name": "Golden Trolley"
+    },
+    {
+      "id": 8,
+      "name": "Greedy Snowmobile"
+    },
+    {
+      "id": 9,
+      "name": "Grey Blocks"
+    },
+    {
+      "id": 10,
+      "name": "Joker Monstro"
+    },
+    {
+      "id": 11,
+      "name": "Minecart"
+    },
+    {
+      "id": 12,
+      "name": "Monstro"
+    },
+    {
+      "id": 13,
+      "name": "Puppy"
+    },
+    {
+      "id": 14,
+      "name": "Snow Minecart"
+    },
+    {
+      "id": 15,
+      "name": "Snowmobile"
+    },
+    {
+      "id": 16,
+      "name": "The Kart"
+    },
+    {
+      "id": 17,
+      "name": "Trolley"
+    },
+    {
+      "id": 18,
+      "name": "X-mas Puppy"
+    },
+    {
+      "id": 19,
+      "name": "X-mas Snowmobile"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
