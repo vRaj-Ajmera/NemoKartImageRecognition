@@ -64,5 +64,5 @@ def split_train_val_files(base_path, train_ratio=0.8):
     print(f"  - {val_labels_path}")
 
 if __name__ == "__main__":
-    path_to_dataset = "exported_yolo_labels/"
+    path_to_dataset = "dataset/"
     split_train_val_files(path_to_dataset)
